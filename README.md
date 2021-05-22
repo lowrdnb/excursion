@@ -1,2 +1,2 @@
 # excursion
-Codecademy project
+this CodeCademy project was to practice using GIT bash and github
